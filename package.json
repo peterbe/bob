@@ -97,7 +97,7 @@
         "browserify": "16.5.0",
         "clean-css": "4.2.1",
         "concat": "1.0.3",
-        "cosmiconfig": "5.2.1",
+        "cosmiconfig": "6.0.0",
         "fs-extra": "8.1.0",
         "glob": "7.1.6",
         "node-dir": "0.1.17",
